@@ -1,1 +1,94 @@
 
+
+
+Customer Segmentation Using K-Means Clustering
+
+
+
+
+
+
+
+
+
+
+📌 Project Overview
+
+
+
+
+
+
+
+This project focuses on customer segmentation using K-Means clustering, an unsupervised machine learning algorithm. The goal is to group customers based on their purchasing behavior and income patterns to help businesses understand different customer types and make data-driven decisions.
+
+
+
+
+Customer segmentation is widely used in marketing, sales, and business analytics to improve customer targeting, personalized offers, and retention strategies.
+
+
+
+
+
+
+
+
+
+
+
+
+
+🚀 Features
+
+
+
+
+
+
+
+Data preprocessing and feature selection
+
+Implementation of K-Means clustering
+
+Visualization of customer clusters
+
+Identification of distinct customer groups
+
+Simple and beginner-friendly machine learning workflow
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+🛠️ Technologies Used
+
+
+
+
+
+
+
+Python 3
+
+NumPy – numerical computations
+
+Pandas – data handling and analysis
+
+Matplotlib – data visualization
+
+Scikit-learn – K-Means clustering algorithm
+
+
+
